@@ -3,7 +3,7 @@
 ![logo](https://github.com/DeveloperMK07/DeveloperMK07/blob/main/Banner.png)
 
 # 💫 About Me:
-I'm a passionate Software Developer who loves crafting innovative solutions in Web Development, Machine Learning, and Data Science. My journey is fueled by curiosity, a knack for problem-solving, and a constant desire to learn and grow.<br><br>⚡ 
+I'm a passionate Software Developer who loves crafting innovative solutions in Web Development, Machine Learning, and Data Science. My journey is fueled by curiosity, a knack for problem-solving, and a constant desire to learn and grow. <br><br>⚡ 
 # Fun fact 
 "Fun fact: My favorite debugging tool is persistence—because every bug is just a feature in disguise waiting to be discovered!"<br><br>
 📫 How to reach me :mayur7024k@gmail.com
