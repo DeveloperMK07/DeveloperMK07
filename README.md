@@ -2,7 +2,7 @@
 
 ![logo](https://github.com/DeveloperMK07/DeveloperMK07/blob/main/images/Banner.png)
 
-<img align="right" height="220" width="350" src="C:\Users\Mayuresh_kadale.DESKTOP-UBRIRCI\Downloads\coder.gif" alt="coder">
+<img align="right" height="220" width="350" src="images/coder.gif" alt="coder">
 # 💫 About Me:
 I'm a passionate Software Developer who loves crafting innovative solutions in Web Development, Machine Learning, and Data Science. My journey is fueled by curiosity, a knack for problem-solving, and a constant desire to learn and grow.<br><br>
 # ⚡Fun fact 
