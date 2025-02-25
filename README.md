@@ -1,6 +1,6 @@
 
 
-![logo](https://github.com/DeveloperMK07/DeveloperMK07/blob/main/Banner.png)
+![logo](https://github.com/DeveloperMK07/DeveloperMK07/blob/main/images/Banner.png)
 
 <img align="right" height="220" width="350" src="C:\Users\Mayuresh_kadale.DESKTOP-UBRIRCI\Downloads\coder.gif" alt="coder">
 # 💫 About Me:
